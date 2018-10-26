@@ -34,7 +34,7 @@
 
     <!-- TOOLBARS -->
     <v-toolbar fixed dark class="light-green darken-1">
-    <v-toolbar-side-icon 
+    <v-toolbar-side-icon
       @click.stop="drawer = !drawer"
       class="hidden-sm-and-up"
     ></v-toolbar-side-icon>
